@@ -1,0 +1,23 @@
+<?XML version="1.0"?>
+<!DOCTYPE MEMO SYSTEM "http://www.site.com/dtds/memo.dtd">
+<MEMO>
+<HEADER>
+<TO>
+TO:
+<NAME>
+John Doe
+</NAME>
+<CC/>
+</TO>
+<FROM>
+From:
+</FROM>
+<SENDER>
+Betty North
+</SENDER>
+</HEADER
+<!CThis is the start of the memo text - ->
+<MEMOTEXT>
+Please take note our phone number has changed.
+</MEMOTEXT>
+</MEMO>
